@@ -4,7 +4,7 @@ Base de données : MySQL 8
 
 Structure :
 ── db/
-│   ├── schema.sql             # Schéma MySQL + données démo
+│   ├── schema.sql            
 │   └── init.js
 
 Configurer la base de données
